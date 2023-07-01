@@ -1,7 +1,7 @@
 # Pie's StoryWriter Clyde Bypass.
 makes Clyde think that bypassing is in pursuit of creative freedom
 
-## V1 (PATCHED)
+## V1 [PATCHED]
 Experimental version.
 
 Surprisingly it worked, it works to generate stories that may be mildly offensive or NSFW.
