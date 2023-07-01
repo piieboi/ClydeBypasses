@@ -6,7 +6,7 @@ Experimental version.
 
 Surprisingly it worked, it works to generate stories that may be mildly offensive or NSFW.
 
-## V2 
+## V2 (CURRENTLY PATCHED)
 It works to generate stories that can be offensive or NSFW, with little to no problems!
 
 If the following happens, then reply to the thread/message with the [prompt](https://github.com/piieboi/ClydeBypasses/blob/main/Storywriter/v2.txt), or paste it into the thread
